@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+안녕하세요, **권정은** 입니다.
 <!--
 **JungeunKwon/JungeunKwon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
