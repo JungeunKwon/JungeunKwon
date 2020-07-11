@@ -5,12 +5,8 @@
 <div align=center>
 
  [![Instagram Badge](https://img.shields.io/badge/-Instagram-pink?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/jjeun_2/)](https://www.instagram.com/jjeun_2/)
-
-
  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://jungeunkwon.github.io/)](https://jungeunkwon.github.io/)
-	
-  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%EC%A0%95%EC%9D%80-%EA%B6%8C-293267171/)](https://www.linkedin.com/in/%EC%A0%95%EC%9D%80-%EA%B6%8C-293267171/)	
-
+ [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%EC%A0%95%EC%9D%80-%EA%B6%8C-293267171/)](https://www.linkedin.com/in/%EC%A0%95%EC%9D%80-%EA%B6%8C-293267171/)
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wjdwjd95@gmail.com)](mailto:wjdwjd95@gmail.com)
 
   </div>
