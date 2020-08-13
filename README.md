@@ -1,7 +1,8 @@
 ### Hi there 👋 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJungeunKwon)](https://hits.seeyoufarm.com)
-안녕하세요, **권정은** 입니다.
 
+안녕하세요, **권정은** 입니다.
+[깃헙 블로그 가기](https://jungeunkwon.github.io/)
 <div align=center>
 
  [![Instagram Badge](https://img.shields.io/badge/-Instagram-pink?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/jjeun_2/)](https://www.instagram.com/jjeun_2/)
